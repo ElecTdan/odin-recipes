@@ -29,3 +29,12 @@ https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.afdb.org%2Fen%2Fcountries%
 
 miso soup img
 https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.loveandlemons.com%2Fwp-content%2Fuploads%2F2021%2F01%2Fmiso-soup-500x375.jpg&imgrefurl=https%3A%2F%2Fwww.loveandlemons.com%2Fmiso-soup%2F&tbnid=NDlYB8de9f5fnM&vet=12ahUKEwjd5cDgnfz2AhUbGjQIHb1MCnAQMygGegUIARCQAg..i&docid=sIWt8n6eKq9IRM&w=500&h=375&q=miso%20soup&hl=en&ved=2ahUKEwjd5cDgnfz2AhUbGjQIHb1MCnAQMygGegUIARCQAg
+
+vegetable tempura recipe
+https://www.thespruceeats.com/vegetarian-vegetable-tempura-recipe-3377859
+
+tempura img
+https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2013%2F10%2F23%2Fdining%2F23JPFLEX1%2F23JPFLEX1-articleLarge.jpg&imgrefurl=https%3A%2F%2Fcooking.nytimes.com%2Frecipes%2F1015259-vegetable-tempura&tbnid=4wJYrXS9SRyHDM&vet=12ahUKEwiJjvSE5oP3AhUjATQIHYavDMwQMygAegUIARDyAQ..i&docid=uLIlveHXdH0JpM&w=600&h=408&q=vegetable%20tempura&hl=en&ved=2ahUKEwiJjvSE5oP3AhUjATQIHYavDMwQMygAegUIARDyAQ
+
+cream stew with chicken and broccoli recipe
+https://www.thespruceeats.com/japanese-cream-stew-with-chicken-2030974
