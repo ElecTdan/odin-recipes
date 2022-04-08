@@ -19,3 +19,13 @@ Main skills portrayed:
     -Show basic concept of linking multiple pages to one main page, with ability to go backwards to index
     -Proper implementation of basic images
     -Proper structuring of html with headings, paragraphs, lists
+
+References:
+Link to miso soup recipe
+https://www.loveandlemons.com/miso-soup/
+
+Japan img
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.afdb.org%2Fen%2Fcountries%2Fnon-regional-member-countries%2Fjapan&psig=AOvVaw1bV-m-_pBR-xDdIgnUdbl6&ust=1649217706956000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCNjdr7ad_PYCFQAAAAAdAAAAABAD
+
+miso soup img
+https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.loveandlemons.com%2Fwp-content%2Fuploads%2F2021%2F01%2Fmiso-soup-500x375.jpg&imgrefurl=https%3A%2F%2Fwww.loveandlemons.com%2Fmiso-soup%2F&tbnid=NDlYB8de9f5fnM&vet=12ahUKEwjd5cDgnfz2AhUbGjQIHb1MCnAQMygGegUIARCQAg..i&docid=sIWt8n6eKq9IRM&w=500&h=375&q=miso%20soup&hl=en&ved=2ahUKEwjd5cDgnfz2AhUbGjQIHb1MCnAQMygGegUIARCQAg
